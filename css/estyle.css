@@ -7,3 +7,11 @@ footer{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+h2{
+    display: grid;
+    justify-content: center;
+    color: #064686;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline rgb(51, 50, 50);
+    margin-bottom: 20px;
+}
